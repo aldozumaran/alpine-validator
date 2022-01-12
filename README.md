@@ -31,7 +31,7 @@ window.Alpine.start();
 
 ## Usage
 
-To create a tooltip, use the `x-validator` directive on an element.
+To create a validator, use the `x-validator` directive on an element.
 
 ```html
 <div x-validator>
