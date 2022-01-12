@@ -11,10 +11,6 @@ This plugin adds a new `x-validator` to Alpine.
 
 ## Installation
 
-### CDN
-
-Include the following `<script>` tag in the `<head>` of your document, just before Alpine.
-
 ### NPM
 
 ```bash
